@@ -1,5 +1,10 @@
 {
-    "files.associations": {
-        "iostream": "cpp"
-    }
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false,
+  "editor.inlineSuggest.enabled": false
 }
