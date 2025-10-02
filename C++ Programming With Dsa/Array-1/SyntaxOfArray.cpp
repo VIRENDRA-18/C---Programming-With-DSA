@@ -2,9 +2,17 @@
 using namespace std;
 int main()
 {
-    int arr[7] = {2,44,54,6,67,9,4};
-    
-    cout<<arr[5];
+    int arr[7];
+
+    //input ke liye 
+    for(int i=0; i<=6; i++){
+        cin>>arr[i];
+    }
+
+    //output ke liye 
+    for(int i=0; i<=6; i++){
+        cout<<arr[i]<<" ";
+    }
 
 
 }
